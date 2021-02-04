@@ -1,5 +1,5 @@
 *
 !.gitignore
-!settings.json
+!User/settings.json
 
 !*/
