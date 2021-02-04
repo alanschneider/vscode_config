@@ -1,0 +1,21 @@
+{ 
+    "editor.codeLens": false,
+    "editor.formatOnSave": true,
+    "editor.hover.enabled": true,
+    "editor.hover.sticky": false,
+    "editor.hover.delay": 2000,
+    "editor.minimap.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Dracula",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.list.openMode": "doubleClick",
+    "workbench.startupEditor": "newUntitledFile",
+}
